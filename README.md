@@ -62,4 +62,4 @@ The data links orders to products, customers, geographic markets, promotions, sa
 
 ## Full Case Study
 
-[Read the full portfolio case study](documentations/Case-Study.docx)
+[Read the full portfolio case study](documentations/Case-Study.pdf)
