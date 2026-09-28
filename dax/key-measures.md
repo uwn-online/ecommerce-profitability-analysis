@@ -196,5 +196,3 @@ CM% Variance vs Baseline =
 ```
 
 ---
-print(f"Created {path}")
-
