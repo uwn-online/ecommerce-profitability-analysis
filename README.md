@@ -30,25 +30,25 @@ The analysis is structured around four questions:
 
 Shows how Gross Sales convert into Contribution Margin and where value is absorbed across the profitability bridge.
 
-![Profitability Overview](assests/Overview.png)
+![Profitability Overview](assets/overview.png)
 
 ### 2. Value Leakage
 
-Examines returns, discounting, lost sales, payment fees and fulfilment performance to identify where value is being eroded.
+Examines returns, discounting, lost sales, payment fees, and fulfilment performance to identify where value is being eroded.
 
-![Value Leakage](assests/Leakage.png)
+![Value Leakage](assets/leakage.png)
 
 ### 3. Profit Drivers
 
-Explores how product mix, brand positioning, sales channels and geographic markets contribute to profitability.
+Explores how product mix, brand positioning, sales channels, and geographic markets contribute to profitability.
 
-![Profit Drivers](assests/Drivers.png)
+![Profit Drivers](assets/drivers.png)
 
 ### 4. Customer Profitability
 
 Assesses acquisition economics, repeat purchasing, customer lifecycle value, and contribution margin at risk.
 
-![Customer Profitability](assests/Customers.png)
+![Customer Profitability](assests/customers.png)
 
 ## Dataset
 
@@ -62,4 +62,4 @@ The data connects orders with products, customers, geographic markets, promotion
 
 ## Full Case Study
 
-[Read the full portfolio case study](Case%Study.docx)
+[Read the full portfolio case study](documentations/Case-Study.docx)
