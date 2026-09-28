@@ -46,15 +46,15 @@ Explores how product mix, brand positioning, sales channels, and geographic mark
 
 ### 4. Customer Profitability
 
-Assesses acquisition economics, repeat purchasing, customer lifecycle value, and contribution margin at risk.
+Assesses acquisition economics, repeat purchase behavior, customer lifetime value, and contribution margin at risk.
 
-![Customer Profitability](assests/customers.png)
+![Customer Profitability](assets/customers.png)
 
 ## Dataset
 
 The project uses a synthetic European e-commerce challenge dataset covering transactions across 2024–2025.
 
-The data connects orders with products, customers, geographic markets, promotions, sales channels, fulfilment providers, and returns, allowing profitability to be analysed from Gross Sales through to Contribution Margin.
+The data links orders to products, customers, geographic markets, promotions, sales channels, fulfilment providers, and returns, enabling profitability to be analysed from Gross Sales through to Contribution Margin.
 
 ## Tools & Skills
 
